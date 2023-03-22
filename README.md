@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ujwal KV
-- 👀 I’m interested in Machine learning ,computer vision, penetration testing etc
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Machine learning,AI, Big Data , Data Analytics , Cloud Computing
 - 💞️ I’m looking to collaborate on many computer science projects which can help many scenarios in the world in a better and efficient fashion
 - 📫 How to reach me ... insta handle ujwal_09
 
